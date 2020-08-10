@@ -1,4 +1,4 @@
-# CovidPrediction
+# Covid Prediction
 Proof of concept for COVID-19 prediction using Patient's X-ray for analysis.
 
 **Disclaimer**: I am not a medical researcher or a doctor. This work is only intended as a source of inspiration for further studies and to showcase the role of ML in medical assistance.

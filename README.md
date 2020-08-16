@@ -19,6 +19,17 @@ I recently faced a major problem, where my family member was given a wrong diagn
 
 	So positive cases were determined by Dr Joseph's database. For negative cases, kaggle had previously open sourced the database of patients having pneumonia. This database came to rescue in preparation of our healthy dataset for the classification.
 
-    Implementation -> [CovidXrayDataSet.ipynb](https://github.com/bhavita/CovidPrediction/blob/master/CovidXrayDataSet.ipynb)
+    DataSet Implementation -> [CovidXrayDataSet.ipynb](https://github.com/bhavita/CovidPrediction/blob/master/CovidXrayDataSet.ipynb)
+
+**Implementation**
+CNN Based Model in Keras - [Covid_Xray_Prediction.ipynb](https://github.com/bhavita/CovidPrediction/blob/master/Covid_Xray_Prediction.ipynb)
+
+Stats 
+
+![Stats](https://raw.githubusercontent.com/bhavita/CovidPrediction/master/media/stats.png "Stats")
 
 
+
+Sample usage demo 
+
+![Demo](https://raw.githubusercontent.com/bhavita/CovidPrediction/master/media/xray_colab_demo.gif "Demo")
